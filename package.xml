@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+  <name>multiway_navigation</name>
+  <version>0.0.0</version>
+  <description>The Multiway Robotics multiway_navigation package</description>
+  <maintainer email="mw@mw-robot.com">BaiCai</maintainer>
+  <license>GPL</license>
+  <url type="website">http://www.mw-robot.com</url>
+  <author email="mw@mw-robot.com">BaiCai</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>message_filters</build_depend>
+  <build_depend>laser_geometry</build_depend>
+
+  <run_depend>message_filters</run_depend>
+  <run_depend>laser_geometry</run_depend>
+
+</package>

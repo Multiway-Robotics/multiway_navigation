@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<launch>
+ <node pkg="multiway_navigation" type="multiway_navigation" name="multiway_navigation" output="screen">
+ </node>
+</launch>
